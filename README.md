@@ -8,6 +8,7 @@ An object oriented approach has been followed, and all distributions are expecte
 
 The project follows a [test driven approach](https://engineering.pivotal.io/post/test-driven-development-for-data-science/), with the unit tests written in `test.py`.
 
+This project stems from the AWS Machine Learning Foundations Course over Udacity.
 
 
 ## Current Progress
